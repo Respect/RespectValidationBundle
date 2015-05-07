@@ -10,7 +10,6 @@
             "email": "drgomesp@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.2",
         "symfony/validator": "2.1.*",
